@@ -2,31 +2,28 @@
   
   
 ## <a name="en"></a>Project Description
-You are to build a simple web based voting application that allows a web user to vote on the following question:
+You are to build a web page from a provided mock-up.  The mockup can be found at:
+http://uidesign.moregoldtech.com/acme/#artboard0
 
-```What is the best video game of all time?```
-
-with the following options as possible answers:  
-  - ```Overwatch```  
-  - ```World of Warcraft```  
-  - ```PUBG```
-  - ```League of Legends```
+Most of the assets in the mockup can be found at:
+http://uidesign.moregoldtech.com/acme/#artboard1
 
 ## Project Requirements
-Requirements for the voting application should:
-  - Allow the web user to select only one answer.
-  - Should only allow the web user to submit one vote per 24 hour period.
-  - After the web user submits a vote, display the current results of the vote.
+Requirements for this webpage are:
+  - From a pixel standpoint, Be as close to the mockup as possible
+  - We are not providing designs for different viewpoint breakpoints.  However, you site should at least have a mobile breakpoint.  
+  - There should be a slide show in the "Our Programs" and "Our Events" sections.  There are six images for each slide show (found in the assets artboard) labeled as Gallery 1 and Gallery 2.  Use Gallery 1 with Our Programs and Gallery 2 with Our Events.  The slide show should not auto-advance and should wrap, meaning that if I am on slide 6 and I hit forward, it should advance to slide 1.
 
 ## Project Instructions
-  1. Build the voting application with whatever technology stack you want.
-  2. Please include instructions on how to build/demo your application.
+  1. Build the web page with whatever technology stack you feel most comfortable with.  This can even be a static page.
+  2. Please include instructions on how to build/demo your web page.
   3. Email the completed application with all the source code as a zip file to: <dkam@moregoldtech.com>
  
 ## Project Notes
 Things to keep in mind:
-  - Please do not spend more than 8 hours building this application.
-  - Do not worry about how the voting application actually looks in your browser.  We are only looking at your back end programming skills.
+  - Please do not spend more than 8 hours building this web page.
+  - We are trying to determine your HTML/CSS/JS skill level.
+  - We will not be judging how the mobile version of the page look, but whether or not it is even responsive.
   - This is your chance to show off what you can do.
   
   
