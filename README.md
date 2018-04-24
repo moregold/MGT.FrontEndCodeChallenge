@@ -10,9 +10,9 @@ http://uidesign.moregoldtech.com/acme/#artboard1
 
 ## Project Requirements
 Requirements for this webpage are:
-  - From a pixel standpoint, Be as close to the mockup as possible
-  - We are not providing designs for different viewpoint breakpoints.  However, you site should at least have a mobile breakpoint.  
-  - There should be a slide show in the "Our Programs" and "Our Events" sections.  There are six images for each slide show (found in the assets artboard) labeled as Gallery 1 and Gallery 2.  Use Gallery 1 with Our Programs and Gallery 2 with Our Events.  The slide show should not auto-advance and should wrap, meaning that if I am on slide 6 and I hit forward, it should advance to slide 1.
+  - From a pixel standpoint, be as close to the mockup as possible
+  - We are not providing designs for different viewport breakpoints.  However, your webpage should have at least a mobile breakpoint.  Do not focus on the design of the mobile version of the webpage.
+  - There should be a slide show in the "Our Programs" and "Our Events" sections.  There are six images for each slide show (found in the assets artboard) labeled as Gallery 1 and Gallery 2.  Use Gallery 1 with "Our Programs" and Gallery 2 with "Our Events".  The slide show should not auto-advance and should wrap, meaning that if forward is clicked while on slide 6, it should wrap to slide 1.
 
 ## Project Instructions
   1. Build the web page with whatever technology stack you feel most comfortable with.  This can even be a static page.
@@ -23,7 +23,7 @@ Requirements for this webpage are:
 Things to keep in mind:
   - Please do not spend more than 8 hours building this web page.
   - We are trying to determine your HTML/CSS/JS skill level.
-  - We will not be judging how the mobile version of the page look, but whether or not it is even responsive.
+  - We will not be judging how the mobile version of the page looks, but whether or not your webpage is responsive.
   - This is your chance to show off what you can do.
   
   
@@ -31,30 +31,28 @@ Things to keep in mind:
   
   
 ## <a name="cn"></a>项目描述
-建立一个基于互联网的投票应用程序，允许网络用户对以下问题进行投票:  
+您将从提供的艺术品中构建网页.  艺术品可以在这里找到:
+http://uidesign.moregoldtech.com/acme/#artboard0
 
-```什么是有史以来最好的视频游戏?```
-
-以下选项作为可能的答案：
-  - ```Overwatch```  
-  - ```World of Warcraft```  
-  - ```PUBG```
-  - ```League of Legends```
+该网站的资产可在以下网址找到:
+http://uidesign.moregoldtech.com/acme/#artboard1
 
 ## 项目要求
-  - 用户只能选择一个答案.
-  - 用户每24小时只能提交一次投票.
-  - 用户提交投票后，显示当前投票结果.
+这个网页项目的要求是:
+  - 尽可能完美的像素
+  - 我们不为不同的视口断点提供设计. 但是, 您的网页至少应该有一个移动断点. 不要专注于网页的移动版本的设计.
+  - 在“Our Programs”和“Our Events”部分应该有一个幻灯片放映. 每个幻灯片放映（在资产美工板中都有）共有六张图片，分别标记为图库1和图库2.将图库1与“Our Programs”一起使用，将图库2与“Our Events”一起使用. 幻灯片放映不应该自动前进并且应该包裹, 这意味着如果在幻灯片6上点击前进, 它应该包装到幻灯片1.
 
 ## 项目说明
-  1. 用任何你可以想要的技术建立投票应用程序.
+  1. 使用您感觉最舒适的技术堆栈构建网页. 这甚至可以是一个静态页面.
   2. 请包括如何构建/演示您的应用程序的说明.
   3. 将完成的应用程序的所有源代码作为zip文件发送给到: <dkam@moregoldtech.com>
 
 ## 项目笔记
 需要注意的事项：
   - 请不要花费超过8小时建立这个应用程序.
-  - 不要担心浏览器中投票应用程序的实际外观.  我们更看重你的后端编程技巧.  
+  - 我们正在尝试确定您的HTML/CSS/JS技能级别.
+  - 我们不会判断该网页的移动版本的外观, 而是判断您的网页是否具有响应能力.
   - 这是你展示你能做什么的机会.
   
   
