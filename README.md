@@ -5,7 +5,7 @@
 You are to build a web page from a provided mock-up.  The mockup can be found at:
 http://uidesign.moregoldtech.com/acme/#artboard0
 
-Most of the assets in the mockup can be found at:
+Most of the assets in the mockup can be found at:  
 http://uidesign.moregoldtech.com/acme/#artboard1
 
 ## Project Requirements
