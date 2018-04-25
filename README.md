@@ -11,7 +11,7 @@ http://uidesign.moregoldtech.com/acme/#artboard1
 ## Project Requirements
 Requirements for this webpage are:
   - From a pixel standpoint, be as close to the mockup as possible
-  - We are not providing designs for different viewport breakpoints.  However, your webpage should have at least a mobile breakpoint.  Do not focus on the design of the mobile version of the webpage.
+  - The provided artboard is meant to be the desktop version of the web page.  We will not provide an artboard for different viewport breakpoints.  However, we expect that your webpage contain at least one other breakpoint, other than desktop (for example, tablet or mobile).  We will not be judging you on how the other breakpoint look, but rather that you just have one.
   - There should be a slide show in the "Our Programs" and "Our Events" sections.  There are six images for each slide show (found in the assets artboard) labeled as Gallery 1 and Gallery 2.  Use Gallery 1 with "Our Programs" and Gallery 2 with "Our Events".  The slide show should not auto-advance and should wrap, meaning that if forward is clicked while on slide 6, it should wrap to slide 1.
 
 ## Project Instructions
@@ -23,7 +23,7 @@ Requirements for this webpage are:
 Things to keep in mind:
   - Please do not spend more than 8 hours building this web page.
   - We are trying to determine your HTML/CSS/JS skill level.
-  - We will not be judging how the mobile version of the page looks, but whether or not your webpage is responsive.
+  - We will not be judging how the responsive version of the page looks, but whether or not your webpage is responsive at all.
   - This is your chance to show off what you can do.
   
   
